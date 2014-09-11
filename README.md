@@ -5,8 +5,8 @@ Programming exercises done throughout the Stanford Machine Learning course offer
 
 Note: My contributions include the code between:
 
-"%===============Your Code Here ==================="
+"%===============Your Code Here==================="
 
 and 
 
-"%================================================="
+"%==============================================="
